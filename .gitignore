@@ -24,3 +24,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# SQLite database files (generated at runtime)
+*.db
+hostel_mess.db
