@@ -230,7 +230,7 @@ Or:
 * [ ] Dish selection
 * [ ] Poll expiry
 * [ ] QR generation
-* [ ] Live voting results
+* [ ] Live voting result
 
 ### Phase 3 — Student Portal
 
